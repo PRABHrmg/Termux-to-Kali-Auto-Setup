@@ -1,0 +1,16 @@
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+
+# Cache
+.cache/
+
+# Downloaded installer
+install-nethunter-termux
+
+# OS files
+.DS_Store
+Thumbs.db
