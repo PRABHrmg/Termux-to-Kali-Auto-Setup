@@ -1,3 +1,7 @@
+source utils/colors.sh
+bash utils/checks.sh
+bash utils/install.sh
+
 #!/bin/bash
 
 # Colors
