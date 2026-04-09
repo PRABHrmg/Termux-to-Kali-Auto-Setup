@@ -22,7 +22,7 @@
 
 ```bash
 git clone https://github.com/PRABHrmg/Termux-to-Kali-Auto-Setup.git
-cd termux-kali-auto
+cd Termux-to-Kali-Auto-setup
 chmod +x setup.sh
 bash setup.sh
 ```
